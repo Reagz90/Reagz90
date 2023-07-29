@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Reagan</h1>
-<h3 align="center">A developer from Melbourne Australia</h3>
+![Example Image](./profileBanner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reagz90&label=Profile%20views&color=0e75b6&style=flat" alt="reagz90" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reagz90" alt="reagz90" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/reagz90" target="blank"><img src="https://img.shields.io/twitter/follow/reagz90?logo=twitter&style=for-the-badge" alt="reagz90" /></a> </p>
 
